@@ -80,7 +80,7 @@ public class SlotLine : MonoBehaviour
     {
       if(Input.GetKeyDown(KeyCode.Space))
         {
-            Spin(2f, Time.deltaTime*0.5fS);
+            Spin(2f, Time.deltaTime*0.5f);
         }
     }
 
